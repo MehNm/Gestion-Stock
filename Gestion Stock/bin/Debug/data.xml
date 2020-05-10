@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Produit>
+    <IdProduit>1</IdProduit>
+    <Nom_produit>pc</Nom_produit>
+    <Quantite>5</Quantite>
+    <DateFabrication>2020-05-09T11:48:43.3130599+02:00</DateFabrication>
+  </Produit>
+</ArrayOfProduit>

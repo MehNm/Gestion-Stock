@@ -1,0 +1,8 @@
+c:\users\re\documents\visual studio 2015\Projects\Gestion Stock\Gestion Stock\bin\Debug\Gestion Stock.exe.config
+c:\users\re\documents\visual studio 2015\Projects\Gestion Stock\Gestion Stock\obj\Debug\Gestion Stock.csprojResolveAssemblyReference.cache
+c:\users\re\documents\visual studio 2015\Projects\Gestion Stock\Gestion Stock\bin\Debug\Gestion Stock.exe
+c:\users\re\documents\visual studio 2015\Projects\Gestion Stock\Gestion Stock\bin\Debug\Gestion Stock.pdb
+c:\users\re\documents\visual studio 2015\Projects\Gestion Stock\Gestion Stock\obj\Debug\Gestion_Stock.Gestion_Stock.resources
+c:\users\re\documents\visual studio 2015\Projects\Gestion Stock\Gestion Stock\obj\Debug\Gestion Stock.csproj.GenerateResource.Cache
+c:\users\re\documents\visual studio 2015\Projects\Gestion Stock\Gestion Stock\obj\Debug\Gestion Stock.exe
+c:\users\re\documents\visual studio 2015\Projects\Gestion Stock\Gestion Stock\obj\Debug\Gestion Stock.pdb
